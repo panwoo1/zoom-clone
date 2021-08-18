@@ -1,0 +1,20 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom Clone using WebRTC and Websocekets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panwoo1/zoom-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": "nodemon"
+  "bugs": {
+    "url": "https://github.com/panwoo1/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/panwoo1/zoom-clone#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.15.0"
+  }
+}
